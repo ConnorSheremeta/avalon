@@ -87,7 +87,7 @@
   gem 'active_encode', git: "https://github.com/projecthydra-labs/active_encode.git", tag: 'v0.0.3'
   gem 'rubyhorn', git: "https://github.com/ualbertalib/rubyhorn.git", branch: 'increase-timeout-test'
   gem 'validates_email_format_of'
-  gem 'loofah', '~> 2.2.1'
+  gem 'loofah', '~> 2.2.3'
   gem 'rails-html-sanitizer', '~> 1.0.4'
   gem 'omniauth-identity'
   gem 'omniauth-lti', git: "https://github.com/avalonmediasystem/omniauth-lti.git", tag: 'avalon-r4'

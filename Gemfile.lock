@@ -520,7 +520,7 @@ GEM
     logging (2.1.0)
       little-plugger (~> 1.1)
       multi_json (~> 1.10)
-    loofah (2.2.2)
+    loofah (2.2.3)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.6.6)
@@ -914,7 +914,7 @@ DEPENDENCIES
   letter_opener
   levenshtein
   license_header
-  loofah (~> 2.2.1)
+  loofah (~> 2.2.3)
   mail (~> 2.6.6.rc1)
   marc
   media-element-logo-plugin
