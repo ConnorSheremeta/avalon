@@ -637,7 +637,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rainbow (2.2.2)
       rake
-    rake (10.5.0)
+    rake (12.3.2)
     rb-fsevent (0.9.8)
     rdf (1.1.17.1)
       link_header (~> 0.0, >= 0.0.8)
@@ -946,7 +946,7 @@ DEPENDENCIES
   puma
   rails (~> 4.2)
   rails-html-sanitizer (~> 1.0.4)
-  rake (~> 10.4)
+  rake (~> 12.3)
   rb-fsevent (~> 0.9.1)
   red5wrapper!
   rollbar
