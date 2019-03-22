@@ -25,7 +25,7 @@
   gem 'rsolr', '~> 1.1.2'
   gem 'blacklight', '~> 5.10'
   gem 'rubydora', '~> 1.8.1'
-  gem 'nom-xml', '~> 0.5.2'
+  gem 'nom-xml', '~> 1.1.0'
 
   gem 'activerecord-session_store'
   gem 'bcrypt-ruby', '~> 3.1.0'
