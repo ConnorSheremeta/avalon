@@ -6,7 +6,7 @@
   gem 'mysql2', '~>0.3.20'
   gem 'iconv'
   gem 'rails', '~>4.2'
-  gem 'sprockets', '~>2.11.3'
+  gem 'sprockets', '~>2.12.5'
   #gem 'protected_attributes'
   gem 'builder', '~>3.1.0'
   gem 'rake', '~>10.4'

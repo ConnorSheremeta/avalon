@@ -803,7 +803,7 @@ GEM
       rdf (~> 1.1, < 1.99)
     spreadsheet (1.1.4)
       ruby-ole (>= 1.0)
-    sprockets (2.11.3)
+    sprockets (2.12.5)
       hike (~> 1.2)
       multi_json (~> 1.0)
       rack (~> 1.0)
@@ -966,7 +966,7 @@ DEPENDENCIES
   shoulda-matchers (~> 2.8)
   simplecov
   solrizer (~> 3.3.0)
-  sprockets (~> 2.11.3)
+  sprockets (~> 2.12.5)
   therubyracer (>= 0.12.0)
   therubyrhino
   twitter-typeahead-rails (= 0.11.1.pre.corejavascript)
